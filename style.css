@@ -1,0 +1,25 @@
+.a
+{
+ color: rgb(240, 3, 3);
+ text-decoration:underline; 
+ text-align: center;
+}
+*{
+    background-color: rgb(157, 222, 238);
+    margin: 50;
+}
+img{
+    max-width: 8%;
+}
+.b{
+    color:rgb(231, 111, 211)
+}
+.c{
+    color:brown
+}
+body{
+    border:solid;
+}
+.d{
+    color:blue
+}
